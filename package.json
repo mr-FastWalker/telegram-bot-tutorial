@@ -4,11 +4,13 @@
   "description": "first attempt to make th bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "FW",
   "license": "ISC",
   "dependencies": {
-    "node-telegram-bot-api": "^0.65.1"
+    "node-telegram-bot-api": "^0.65.1",
+    "nodemon": "^3.1.0"
   }
 }
