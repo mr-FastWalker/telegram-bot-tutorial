@@ -24,4 +24,6 @@ Alternatively, you can do it the way you are used to, but follow [Angular Commit
 ### Полезные ссылки
 - статья на хабре (https://habr.com/ru/articles/740796/)
 - видео туториал (https://youtu.be/slcqnHIFrj8)
-- 
+
+### Вопросы
+- как безопасно хранить токен бота?
